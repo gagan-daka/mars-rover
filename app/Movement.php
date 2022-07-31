@@ -30,7 +30,7 @@ class Movement {
         $x = RoverProperties::START_X_POSITION;
         $y = RoverProperties::START_Y_POSITION;
 
-        $detectObstacles = new Obstacle();
+        //$detectObstacles = new Obstacle();
         
 
         /*
