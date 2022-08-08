@@ -27,5 +27,7 @@ Observaciones:
 
 Cuando **Rover** gira a la derecha o a la izquierda hace un giro de **Xº** (vamos a poner que cada giro que hace es de 90º), cuando realiza este giro mantiene su posision en los ejes **X,Y**, es decir, cuando **Rover** recibe los comandos como **L** o **R** él sólo gira actualizando así su orientacion en los ejes **N,S,E,W**.
 
+PD:Todos los **testunitarios** se han programado para que sean correctos y que ninguno falle
+
 ### Autor : Gagandeep Dass Kaur
 #### para ejecutar utiliza este comando: php vendor/bin/phpunit
