@@ -11,7 +11,7 @@ Mediante **PHPUnit** se han planteado una serie de tests para estudiar el movimi
 
 ## PLANTEAMIENTO DEL MOVIMIENTO DE ROVER
 
-Para entender su movimiento se ha empleado el **PLANO CARTESIANO** el cual permitió estudiar su movimiento en las 4 direcciones (**N, S, E, W**).
+Para entender su movimiento se ha empleado el **PLANO CARTESIANO** el cual permitió estudiar su movimiento.
 
 ![](planocartesiano.jpg)
 
